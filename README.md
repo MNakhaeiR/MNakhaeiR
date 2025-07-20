@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on innovative projects.
 - 🤔 I’m looking for help with making impossible ideas real.
 - 💬 Ask me about algorithms.
-- 📫 How to reach me: [Telegram](https://t.me/ColdnessBeMyGod)
+- 📫 How to reach me: [Telegram](https://t.me/MNakhaeiR)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like classical music.
 
