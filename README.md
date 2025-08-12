@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ## Websites:
 - 🟡 [MNakhae.ir](https://MNakhae.ir)
-- ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
 - 🟡 [CCRU.ir](https://CCRU.ir)
 - 🟡 [mySAD.ir](https://mySAD.ir)
-<!-- - 🟡 [eRavoon.ir](https://eRavoon.ir) / [eRavoon.com](https://eRavoon.com) -->
+- ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
