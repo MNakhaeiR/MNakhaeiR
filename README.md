@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like classical music.
 
 ## Websites:
-- 🟡 [MNakhae.ir](https://MNakhae.ir)
+- ✅ [MNakhae.ir](https://MNakhae.ir)
 - 🟡 [CCRU.ir](https://CCRU.ir)
 - 🟡 [mySAD.ir](https://mySAD.ir)
 - ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
