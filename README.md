@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ✅️ [RosePhotoArt](https://RosePhotoArt.com)
 - ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
 - 🟡 [CCRU.ir](https://CCRU.ir)
-- 🟡 [mySAD.ir](https://mySAD.ir)
+- 🟡 Kolabra
