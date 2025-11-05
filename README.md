@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
 - 🟡 [CCRU.ir](https://CCRU.ir)
 - 🟡 Kolabra
+
+## Resume:
+- [Front-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/frontend.pdf)
+- [Back-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/backend.pdf)
+- [AI](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/ai-and-data-science.pdf)
