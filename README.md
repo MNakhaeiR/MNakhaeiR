@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 🟡 Kolabra
 
 ## Resume:
-- [Front-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/frontend.pdf)
-- [Back-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/backend.pdf)
-- [AI](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/ai-and-data-science.pdf)
+- 🔹 [Front-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/frontend.pdf)
+- 🔹 [Back-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/backend.pdf)
+- 🔹 [AI](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/ai-and-data-science.pdf)
