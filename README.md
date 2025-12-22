@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ✅ [Mano Computer Studio](https://ca.mnakhae.ir)
 - ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
 - 🟡 [CCRU.ir](https://CCRU.ir)
-- 🟡 Kolabra
+- 🟡 Colabra
 
 ## Resume:
 - 🔶 [Front-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/frontend.pdf)
