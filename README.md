@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web Dev (Next.js + Node.js/Bun + NestJS/Hono/Elysia) and AI (PyTorch).
-- 🌱 I’m currently learning NLP and n8n.
+- 🌱 I’m currently learning NLP and mass data analysis.
 - 👯 I’m looking to collaborate on innovative projects.
 - 🤔 I’m looking for help with making impossible ideas real.
 - 💬 Ask me about algorithms.
