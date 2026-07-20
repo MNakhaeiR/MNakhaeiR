@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 ## Websites:
 - ✅ [MNakhae.iR](https://MNakhae.ir) (Portfolio)
-- ✅️ [RosePhotoArt](https://RosePhotoArt.com)
+- ✅️ [DaGallery](https://dagallery.mnakhae.ir)
 - ✅ [Mano Computer Studio](https://ca.mnakhae.ir)
-- ✅ [DomainPeyda.ir](https://DomainPeyda.ir)
 - ✅ [CCRU.ir](https://CCRU.ir)
 - 🟡 Colabra
 
