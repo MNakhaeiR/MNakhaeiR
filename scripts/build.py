@@ -106,7 +106,7 @@ JOURNEY = [
     ("SEP 2024 — NOW", "Islamic Azad University", "B.Sc. Computer Engineering",
      "Software engineering, algorithms and AI — plus coding competitions."),
     ("FEB — JUN 2025", "SAV", "Backend developer · finance",
-     "Secure, scalable services with NestJS, PostgreSQL, Redis and Kafka."),
+     "REST APIs in Laravel and MySQL, shipped with Docker and CI/CD."),
     ("2026", "17 products live", "Game Line, NiboLingo, Matteo, Iranbnb…",
      "…and the next one is already in the editor."),
 ]
