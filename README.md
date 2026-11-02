@@ -15,14 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like classical music.
 
-## Websites:
-- ✅ [MNakhae.iR](https://MNakhae.ir) (Portfolio)
-- ✅️ [DaGallery](https://dagallery.mnakhae.ir)
-- ✅ [Mano Computer Studio](https://ca.mnakhae.ir)
-- ✅ [CCRU.ir](https://CCRU.ir)
-- 🟡 Colabra
-
-## Resume:
-- 🔶 [Front-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/frontend.pdf)
-- 🔶 [Back-end](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/backend.pdf)
-- 🔶 [AI](https://github.com/MNakhaeiR/MNakhaeiR/blob/main/ai-and-data-science.pdf)
