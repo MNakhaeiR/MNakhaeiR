@@ -1,0 +1,7 @@
+# Claude Code
+.claude/
+.claude-flow/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+graphify-out/
